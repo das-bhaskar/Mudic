@@ -1,6 +1,6 @@
 # 🌈 Mudic – Feelings. Heard. Healed.
 
-**Built at [Your Hackathon Name Here]**  
+**Built at [MLH AI Hackfest]**  
 A mindful app that tunes into your mood and responds with personalized comfort using Gemini AI 🎧🧠💖
 
 ---
@@ -52,12 +52,6 @@ Each mood unlocks a custom experience:
 - Gemini responds with a soothing line
 - Breathing animation and gentle UI to de-escalate stress
 
-#### 😴 **Tired**
-> (Coming soon) A cozy visual with AI-generated nap stories, mantras, and breathing cues.
-
-- No user input required
-- Minimal interaction for maximum comfort
-
 #### 😊 **Happy**
 > Celebrate your joy with a magical, 13-word haiku written just for you.
 
@@ -73,7 +67,7 @@ Each mood unlocks a custom experience:
 | `/api/analyze`   | Analyzes user input → returns mood, message & RGB |
 | `/api/getHaiku`  | Generates a 13-word haiku               |
 | `/api/vent`      | Responds gently to user vents           |
-| `/api/joke` *(optional)* | Generates a silly joke for the sad page   |
+| `/api/joke` | Generates a silly joke for the sad page   |
 
 ---
 
