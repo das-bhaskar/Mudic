@@ -1,4 +1,4 @@
-# � Mudic 
+# Mudic 
 
 **Built at [MLH AI Hackfest]**  
 A mindful app that tunes into your mood and responds with personalized comfort using Gemini AI 
@@ -60,7 +60,7 @@ Each mood unlocks a custom experience:
 
 ---
 
-## 🔌 API Endpoints (Flask)
+## API Endpoints (Flask)
 
 | Endpoint         | Description                             |
 |------------------|-----------------------------------------|
