@@ -1,21 +1,21 @@
-# 🌈 Mudic – Feelings. Heard. Healed.
+# � Mudic 
 
 **Built at [MLH AI Hackfest]**  
-A mindful app that tunes into your mood and responds with personalized comfort using Gemini AI 🎧🧠💖
+A mindful app that tunes into your mood and responds with personalized comfort using Gemini AI 
 
 ---
 
-## ✨ Tech Stack
+## Tech Stack
 
 - **Frontend:** SwiftUI (iOS)
 - **Backend:** Flask (Python)
 - **AI Model:** Gemini (via Google Generative AI)
 - **API Integration:** Ngrok for secure local API tunneling
-- **Design Aesthetic:** Pastel-themed, playful, and emotional UI with mood-based color dynamics 🎨
+- **Design Aesthetic:** Pastel-themed, playful, and emotional UI with mood-based color dynamics 
 
 ---
 
-## 🧠 What is Mudic?
+##  What is Mudic?
 
 **Mudic** is your AI-powered emotional wellness companion that listens to your feelings and responds with personalized care.  
 The name comes from **“Mood + Music”**, and the app adapts its look, voice, and content to how you're feeling.
@@ -24,13 +24,13 @@ Whether you're sad, angry, anxious, or just tired — Mudic holds space for you.
 
 ---
 
-## 💡 How It Works
+##  How It Works
 
 ### 1. **Mood Analysis**
 The user enters how they’re feeling → Gemini AI processes the tone and returns:
-- 🎭 A precise **mood label** (e.g., “tired”, “angry”)
-- 🌈 A **motivational message** based on that mood
-- 🖌️ A **pastel RGB color** for theming the UI
+- A precise **mood label** (e.g., “tired”, “angry”)
+- A **motivational message** based on that mood
+- A **pastel RGB color** for theming the UI
 
 ---
 
@@ -38,21 +38,21 @@ The user enters how they’re feeling → Gemini AI processes the tone and retur
 
 Each mood unlocks a custom experience:
 
-#### 😢 **Sad**
+####  **Sad**
 > Swipe through Gemini-generated *hilariously silly jokes* until your sadness gives up.
 
 - Tinder-style card swiping
 - Each swipe triggers a fresh AI joke
 - Designed to surprise and amuse
 
-#### 😡 **Angry**
+####  **Angry**
 > Vent freely, and let Gemini gently calm you down.
 
 - Freeform text input
 - Gemini responds with a soothing line
 - Breathing animation and gentle UI to de-escalate stress
 
-#### 😊 **Happy**
+####  **Happy**
 > Celebrate your joy with a magical, 13-word haiku written just for you.
 
 - Gemini haiku generation based on your input
@@ -71,7 +71,7 @@ Each mood unlocks a custom experience:
 
 ---
 
-## 🎨 UI Highlights
+##  UI Highlights
 
 - **Dynamic Pastel Theme:** Mood-based color changes for UI background
 - **Custom Animations:** Breathing circles, floating elements, and jiggly avatars
@@ -79,14 +79,14 @@ Each mood unlocks a custom experience:
 
 ---
 
-## 🤖 Powered by Gemini
+##  Powered by Gemini
 
 Gemini brings emotional intelligence to Mudic.  
 Whether it’s a one-liner, a poetic haiku, or just a comforting word — each response is *unique, thoughtful, and alive*.
 
 ---
 
-## 💭 Why We Built Mudic
+##  Why We Built Mudic
 
 We noticed that even mood-tracking apps *ask too much* of users — especially when they’re already drained.  
 Mudic flips the script. It listens, adapts, and lifts you up — one beautifully tailored moment at a time.
@@ -96,7 +96,7 @@ For everyone who just needed to feel heard.
 
 ---
 
-## 🛠️ Setup Instructions (Dev)
+##  Setup Instructions (Dev)
 
 1. **Clone the repo**
 2. Start Flask backend (port 5001):
@@ -107,6 +107,6 @@ For everyone who just needed to feel heard.
     ```bash
     ngrok http 5001
 
-🌟 Team: 
+ Team: 
 
 Bhaskar Das 
